@@ -1,7 +1,7 @@
 # Tokyo Olympics Data Analysis: Microsoft Azure End-to-End Pipeline Project 
 This repository provides a comprehensive guide on how to build and implement an end-to-end data engineering pipeline for the analysis of Tokyo Olympics data. This project takes advantage of several Microsoft Azure services, including Azure Data Lake Gen2, Azure Data Factory (ADF), Azure Synapse Analytics, Databricks, and Power BI.
 
-[Power BI Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiNDlkOTVjYjEtYzM0Yi00OTc1LThhM2UtZTc2YmJlZjlhMzZkIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDlkOTVjYjEtYzM0Yi00OTc1LThhM2UtZTc2YmJlZjlhMzZkIiwidCI6ImNkMzE5NjcxLTUyZTctNGE2OC1hZmE5LWZjZjhmODlmMDllYSIsImMiOjN9)
 [Databricks Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1379276969479999/3988380254920694/7589156471503808/latest.html) 
 
 ## Table of Contents
