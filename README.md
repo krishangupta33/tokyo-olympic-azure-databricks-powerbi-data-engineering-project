@@ -28,7 +28,7 @@ The architecture of this data pipeline has been designed to be robust and scalab
 * Azure Synapse Analytics for creating a SQL database.
 * Power BI for data visualization.
 
-> ![architecture-placeholder](Images/Architecture.png)
+> ![architecture-placeholder](/Images/Architecture.png)
 
 ## Technologies and Services Used
 The project utilizes the following technologies and services from Microsoft Azure:
